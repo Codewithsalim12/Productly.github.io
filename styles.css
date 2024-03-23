@@ -311,7 +311,7 @@ section {
 }
 
 .products {
-    background-image: url(/project-1/assets/shape-1.png);
+    background-image: url(http://127.0.0.1:5500/project-1/assets/shape-1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -590,7 +590,7 @@ section {
 }
 
 .pricing {
-    background-image: url(/project-1/assets/oval.png);
+    background-image: url(https://themewagon.github.io/productly/v1.0.0/assets/img/superhero/oval.png);
     background-position: top !important;
     background-repeat: no-repeat;
     background-size: cover;
